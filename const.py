@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 my_channel_id = '@zakonbvi'
-TOKEN = '6399120803:AAHBV8jzRR8OF3qZMpbQx476-Sjp3D5PtsQ'
+TOKEN = '0_0'
 bot = telebot.TeleBot(TOKEN)
 set_channel = ''
 img1 = open('penalty.png', 'rb')
