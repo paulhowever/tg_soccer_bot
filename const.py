@@ -1,6 +1,6 @@
 import telebot
 from telebot import types
-my_channel_id = '@zakonbvi'
+my_channel_id = '0_0'
 TOKEN = '0_0'
 bot = telebot.TeleBot(TOKEN)
 set_channel = ''
@@ -20,7 +20,5 @@ udar5 = types.KeyboardButton('5')
 markup2.add(udar1, udar2, udar3, udar4, home, udar5)
 
 Media = """Автор бота. Обратная связь!
-discord server: https://discord.gg/eem2NNKa6G
 tg: @paulhowever
-web-site: http://a0836219.xsph.ru/
 """
